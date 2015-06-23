@@ -4,7 +4,7 @@
 // @include     http://agar.io/
 // @version     2.6
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      DarkPineApple
 // ==/UserScript==
 
 Number.prototype.mod = function(n) {
@@ -915,7 +915,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  names = ["NotReallyABot"],
+  names = ["Sir"],
   originalName = names[Math.floor(Math.random() * names.length)],
   sessionScore = 0,
   serverIP = "",
